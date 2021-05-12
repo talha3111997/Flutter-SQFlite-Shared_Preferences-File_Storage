@@ -1,10 +1,11 @@
 # local_storage_app
 
-A new Flutter application.
+A Lab on storing data in local database (SQLite) by using SQFlite then retrieving that data asyncroniously to display it in the Widget of Future class.
+In this lab it has also been practiced that how to store data in shared preferences (iOS & Anroid) as well as in file storage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
